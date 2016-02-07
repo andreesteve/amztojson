@@ -1,0 +1,19 @@
+{
+  "name": "amztojson",
+  "version": "0.1.0",
+  "description": "Converts amazon HTML pages into JSON.",
+  "author": "Andre Esteve <andreesteve@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+      "cheerio": "^0.20.0",
+      "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Amazon"
+  ]
+}
